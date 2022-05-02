@@ -2,11 +2,11 @@ BEGIN:VCARD
 VERSION:3.0
 PRODID:-//Apple Inc.//iPhone OS 11.2.2//EN
 N:Arth;Pachchigar;;;
-FN: Pachchigar  Arth 
+FN: Arth  Pachchigar 
 ORG:General Motors;
 TITLE:Process Controls Engineer\nControls Execution
 EMAIL;type=INTERNET;type=WORK;type=pref:gm.com
-TEL;type=WORK;type=VOICE:+248 602 9494
+TEL;type=WORK;type=VOICE:+1 248 602 9494
 item1.X-ABADR:sg
 item2.URL;type=pref:www.gm.com
 item2.X-ABLabel:_$!<HomePage>!$_
